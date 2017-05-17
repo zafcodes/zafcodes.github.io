@@ -1,0 +1,6 @@
+.my-jumbotron-background{
+    background-image: url('maxresdefault.jpg');
+    background-size:cover;
+    background-position: center;
+    color:white;
+}
